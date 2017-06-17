@@ -23,6 +23,7 @@ public class Message {
 		this.Message=Message;
 		this.Author=Author;
 		this.Created=new Date();
+		    
 		
 	}
 	
